@@ -5,6 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=royaleaulia&label=Profile%20views&color=0e75b6&style=flat" alt="royaleaulia" /> </p>
 
 - 🔭 I’m currently working on [Waste Sorting](https://github.com/royaleaulia/waste-sorting)
+- 🔭 I’m currently working on [Data Rumah Sakit](https://github.com/royaleaulia/data-rumah-sakit)
 
 - 🌱 I’m currently learning **Blender, C#, Python, React JS**
 
