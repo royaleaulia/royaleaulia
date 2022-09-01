@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [Waste Sorting](https://github.com/royaleaulia/waste-sorting)
 - 🔭 I’m currently working on [Data Rumah Sakit](https://github.com/royaleaulia/data-rumah-sakit)
 
-- 🌱 I’m currently learning **Blender, C#, Python, React JS**
+- 🌱 I’m currently learning **Blender, C#, Python, React JS, Laravel**
 
 - 📫 How to reach me **royaleaulia@gmail.com**
 
